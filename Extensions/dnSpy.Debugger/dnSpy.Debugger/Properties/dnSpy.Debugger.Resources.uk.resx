@@ -1523,4 +1523,10 @@
   <data name="Processes_Search_ToolTip" xml:space="preserve">
     <value>Пошук процесу</value>
   </data>
+  <data name="DbgSettings_FocusDebuggerWhenProcessBreaks" xml:space="preserve">
+    <value>Винести dnSpy на перідній фон, коли спрацює точка зупинки в дебагері</value>
+  </data>
+  <data name="Column_LoadModule" xml:space="preserve">
+    <value>Зааантажити</value>
+  </data>
 </root>
